@@ -1,0 +1,296 @@
+/* importing Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,500;1,700&display=swap');
+
+/* setting up some generic styles */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+    min-width: 300px;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    background: #06070d;
+}
+
+/* scrollbar styles */
+/* works on Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #262D4D #06070d;
+}
+
+/* works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    margin-top: 45px;
+    background: #06070d;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #262D4D;
+    border-radius: 5px;
+    border: 3px solid #06070d;
+}
+
+/* font styles */
+.header {
+    padding: 8px;
+    width: 100%;
+    text-align: center;
+    color: #e1e3ed;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 20px;
+    font-size: 12px;
+    letter-spacing: 2.4px;
+}
+
+.content {
+    font-size: 14px;
+    letter-spacing: normal;
+    font-weight: 400;
+    line-height: 20px;
+    align-items: center;
+    overflow: hidden;
+    color: #9399b8;
+}
+
+.details {
+    font-size: 12px;
+    letter-spacing: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: #9399b8;
+    opacity: 0.5;
+}
+
+/* header/navbar styles */
+header {
+    background: #06070d;
+    padding-bottom: 45px;
+}
+
+.navbar {
+    width: 100%;
+    height: auto;
+    min-height: 45px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    opacity: 0.90;
+    z-index: 1;
+    background: #0d0f1a;
+}
+
+.navbar-links {
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.navbar a {
+    height: 100%;
+    display: flex;
+    min-height: 45px;
+    align-items: center;
+    padding: 0 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar a:hover {
+    color: #e1e3ed;
+}
+
+/* main content styles */
+main {
+    padding: 8px 15px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    background: #06070d;
+}
+
+/* some generic styles for collapsible elements */
+.collapsible-container {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.collapsible-click {
+    display: flex;
+    padding: 8px 15px;
+    align-items: center;
+    background: #0d0f1a;
+    transition: background 300ms linear;
+    cursor: pointer;
+    user-select: none;
+}
+
+.collapsible-click:hover {
+    background: #262D4D;
+    transition: background 300ms linear;
+}
+
+.collapsible-click > svg {
+    fill: #9399b8;
+    transition: transform .2s ease-out;
+}
+
+.collapsible-content {
+    display: flex;
+    flex-direction: column;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+}
+
+/* generic separator styles */
+.separator {
+    width: 98%;
+    border-width: 1px 0 0 0;
+    border-color: #262D4D;
+    border-style: solid;
+}
+
+/* generic styles for main page rows */
+#prod-status-container, #maintenances-container, #issues-container {
+    display: flex;
+    justify-content: center;
+    margin: 8px 0;
+    width: 100%;
+    height: fit-content;
+    background: #0d0f1a;
+}
+
+/* styles for the top-row part : production status and maintenances */
+.top-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#prod-status-container {
+    margin-right: 8px;
+}
+
+#maintenances-container {
+    margin-left: 8px;
+}
+
+.region-status-content {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: 100%;
+    justify-content: space-between;
+    padding: 7.5px 15px;
+}
+
+/* styles for the issues (and maintenances) */
+.issues-row {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.issue, .comment {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-decoration: none;
+    color: inherit;
+    padding: 8px 15px;
+}
+
+.issue-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+.issue:hover {
+    color: #e1e3ed;
+}
+
+/* styles for individual pages */
+#all-status-container, #all-maintenances-container, #all-issues-container, #individual-issue-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 8px 0;
+    border-radius: 5px;
+    background: #0d0f1a;
+}
+
+#individual-issue-container {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+#individual-issue-header {
+    width: 100%;
+}
+
+#individual-issue-comments {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#all-status-title, #all-maintenances-title, #all-issues-title {
+    display: flex;
+    padding: 8px 15px;
+}
+
+#all-status-content, #all-maintenances-content, #all-issues-content {
+    display: flex;
+    flex-direction: column;
+}
+
+/* icons styles */
+.icon {
+    width: 18px;
+    height: 18px;
+}
+
+#mf-check-circle, .issue-opened {
+    fill: #22bb22;
+}
+
+#mf-cross-s, .issue-closed{
+    fill: #bb2222;
+}
+
+/* some styles to make the page responsive */
+@media screen and (max-width: 800px){
+    .top-row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #prod-status-container, #maintenances-container {
+        margin: 8px 0;
+    }
+
+}
