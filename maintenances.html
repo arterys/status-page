@@ -32,9 +32,14 @@
     crossorigin="anonymous">
 </script>
 <script>
-    $(function(){
-        $("header").load('./navbar.html');
-    });
+    $("header").load('./navbar.html');
+    setTimeout(() => {
+        const maintenances_link = document.getElementById("maintenances-link");
+        maintenances_link.style.color = "#e1e3ed"
+        maintenances_link.style.transform = "translateY(-2px)"
+        const maintenances_overline = document.getElementById("maintenances-overline");
+        maintenances_overline.style.display = "block"
+    },50)
 </script>
 <script 
     src="./asset/js/issues.js" 

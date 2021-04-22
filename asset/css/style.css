@@ -95,13 +95,33 @@ header {
 .navbar-links {
     display: flex;
     list-style: none;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 2px;
     text-transform: uppercase;
 }
 
-.navbar a {
+
+#status-link-container, #maintenances-link-container, #issues-link-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#status-link, #maintenances-link, #issues-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+#status-overline, #maintenances-overline, #issues-overline {
+    display: none;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(135deg,#62c5d9,#6289d9);
+}
+
+.navbar > a, .navbar-links > div {
     height: 100%;
     display: flex;
-    min-height: 45px;
     align-items: center;
     padding: 0 15px;
     cursor: pointer;
@@ -109,7 +129,7 @@ header {
     color: inherit;
 }
 
-.navbar a:hover {
+.navbar > a:hover, .navbar-links > div:hover {
     color: #e1e3ed;
 }
 
@@ -275,11 +295,11 @@ main {
 }
 
 #mf-check-circle, .issue-opened {
-    fill: #22bb22;
+    fill: #6fa85d;
 }
 
 #mf-cross-s, .issue-closed{
-    fill: #bb2222;
+    fill: #b12c2c;
 }
 
 /* some styles to make the page responsive */
