@@ -1,4 +1,4 @@
-$.getJSON('./asset/json/maintenances.json', function (data) {
-    const maintenances_content = document.getElementById('all-maintenances-content');
+$.getJSON("./asset/json/maintenances.json", function (data) {
+    const maintenances_content = document.getElementById("all-maintenances-content");
     fillIssues(data, maintenances_content);
 });

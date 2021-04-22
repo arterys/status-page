@@ -1,5 +1,5 @@
 /* importing Roboto */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,500;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,500;1,700&display=swap");
 
 /* setting up some generic styles */
 * {
@@ -101,15 +101,9 @@ header {
     text-transform: uppercase;
 }
 
-
 #status-link-container, #maintenances-link-container, #issues-link-container {
     display: flex;
     flex-direction: column;
-}
-
-#status-link, #maintenances-link, #issues-link {
-    text-decoration: none;
-    color: inherit;
 }
 
 #status-overline, #maintenances-overline, #issues-overline {
@@ -117,6 +111,11 @@ header {
     height: 2px;
     width: 100%;
     background: linear-gradient(135deg,#62c5d9,#6289d9);
+}
+
+#status-link, #maintenances-link, #issues-link {
+    text-decoration: none;
+    color: inherit;
 }
 
 .navbar > a, .navbar-links > div {
