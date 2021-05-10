@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./asset/css/style.css">
+    <title>Arterys status page</title>
+</head>
+
+<body>
+    <header>
+        <!--This is filled with ./navbar.html with jquery-->
+    </header>
+
+    <main>
+        <div id="all-maintenances-container">
+            <div id="all-maintenances-title">
+                <p class="header">All Maintenances</p>
+            </div>
+            <div class="content" id="all-maintenances-content">
+            </div>
+        </div>
+    </main>
+    
+</body>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>
+    $("header").load("./navbar.html");
+    setTimeout(() => {
+        const maintenances_link = document.getElementById("maintenances-link");
+        maintenances_link.style.color = "#e1e3ed"
+        maintenances_link.style.transform = "translateY(-2px)"
+        const maintenances_overline = document.getElementById("maintenances-overline");
+        maintenances_overline.style.display = "block"
+    },25)
+</script>
+<script src="./asset/js/issues.js" type="text/javascript"></script>
+<script src="./asset/js/maintenances-script.js" type="text/javascript"></script>
+
+</html>
