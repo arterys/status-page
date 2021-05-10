@@ -29,7 +29,7 @@ for (let i = 0; i < collapsible_elements.length; i++) {
     makeCollapsible(collapsible_elements[i]);
 }
 
-const regions = ["us-east-1", "eu-central-1", "master", "test", "mica-6388"];
+const regions = ["us-east-1", "eu-central-1"];
 
 //Filling the status
 regions.forEach(region => {
