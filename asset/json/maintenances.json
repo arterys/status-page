@@ -32,15 +32,6 @@
     },
     "labels": [
       {
-        "id": 2991039984,
-        "node_id": "MDU6TGFiZWwyOTkxMDM5OTg0",
-        "url": "https://api.github.com/repos/arterys/status-page/labels/displayed-issue",
-        "name": "displayed-issue",
-        "color": "f9d0c4",
-        "default": false,
-        "description": ""
-      },
-      {
         "id": 2991040321,
         "node_id": "MDU6TGFiZWwyOTkxMDQwMzIx",
         "url": "https://api.github.com/repos/arterys/status-page/labels/maintenance",
@@ -59,7 +50,7 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-05-11T14:42:18Z",
-    "updated_at": "2021-05-11T14:42:18Z",
+    "updated_at": "2021-05-11T14:44:22Z",
     "closed_at": null,
     "author_association": "NONE",
     "active_lock_reason": null,
