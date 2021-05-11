@@ -41,7 +41,7 @@
         "description": ""
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -50,8 +50,8 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2021-05-11T14:42:18Z",
-    "updated_at": "2021-05-11T14:44:22Z",
-    "closed_at": null,
+    "updated_at": "2021-05-11T14:49:31Z",
+    "closed_at": "2021-05-11T14:49:31Z",
     "author_association": "NONE",
     "active_lock_reason": null,
     "body": "starting_datetime: 2021-05-11 01:00 UTC\n        estimated_duration: 15 mins\n        Minor bug fixes",
