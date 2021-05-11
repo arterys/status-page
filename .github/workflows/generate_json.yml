@@ -14,17 +14,16 @@ jobs:
       - uses: actions/checkout@v2
       - name: Fetch issues and comments to json files
         run: |
-          mkdir -p ./asset/json ./asset/json/comments
+          mkdir -p ./asset/json/comments
           wget "https://api.github.com/repos/$GITHUB_REPOSITORY/issues?state=all&labels=displayed-issue" -O ./asset/json/displayed-issues.json
           wget "https://api.github.com/repos/$GITHUB_REPOSITORY/issues?state=all&labels=maintenance" -O ./asset/json/maintenances.json
           jq -s '.[][]' ./asset/json/displayed-issues.json ./asset/json/maintenances.json | jq -s -S 'sort_by(.number) | reverse' > ./asset/json/issues.json
           bash ./.github/workflows/fetch_comments.sh
       - name: Commit json files
         run: |
-          git add ./asset/json/*.json
-          git add ./asset/json/comments/*.json
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add .
           git diff-index --quiet HEAD || git commit -m "Auto updating json files"
       - name: Push json files
         uses: ad-m/github-push-action@master
