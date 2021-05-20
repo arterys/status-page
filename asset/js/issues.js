@@ -12,11 +12,12 @@ function fillIssues(data, elem, individual = false) {
         title.innerText = issue.title.trim();
         let body = document.createElement("span");
         body.className = "issue-body";
-        body.innerText = issue.body;
-        let time = new Date(issue.created_at).toISOString().slice(0,19).split("T");
+        body.innerText = parseIssueBody(issue.body);
+        parseIssueBody(issue.body)
+        let time = new Date(issue.created_at);
         let details = document.createElement("span");
         details.className = "details";
-        details.innerText = "#" + issue.number + " opened the " + time[0] + " at " + time[1] + "(UTC) by " + issue.user.login + " (comments:" + issue.comments + ")";
+        details.innerText = "#" + issue.number + " opened "+ timeSince(time) + " by " + issue.user.login + " (comments:" + issue.comments + ")";
         let img = document.createElement("span");
         img.className = "icon";
         if (issue.state === "open"){
@@ -62,6 +63,75 @@ function fillComments(comments, elem) {
         elem.appendChild(container);
     });
 }
+
+function parseIssueBody(body) {
+    let lines = body.split("\n")
+    let parsedBody = ""
+    lines.forEach(line => {
+        if (line.startsWith("Starting datetime:")){
+            let date = Date.parse(line.split("Starting datetime:")[1])
+            parsedBody += timeSince(date)
+        } else {
+            parsedBody += line 
+        }
+        if (line !== lines[lines.length-1]) {
+            parsedBody += "\n"
+        }
+    });
+    return parsedBody
+}
+
+function timeSince(date) {
+    if (typeof date !== "object") {
+        date = new Date(date);
+    }
+
+    var incomingString = ""
+    var pastString = ""
+    var seconds = Math.floor((new Date() - date) / 1000);
+    var intervalType;
+
+    if (seconds < 0) {
+        incomingString = "In "
+        seconds *= -1
+    } else {
+        pastString = " ago"
+    }
+
+    var interval = Math.floor(seconds / 31536000);
+    if (interval >= 1) {
+        intervalType = "year";
+    } else {
+        interval = Math.floor(seconds / 2592000);
+        if (interval >= 1) {
+            intervalType = "month";
+        } else {
+            interval = Math.floor(seconds / 86400);
+            if (interval >= 1) {
+                intervalType = "day";
+            } else {
+                interval = Math.floor(seconds / 3600);
+                if (interval >= 1) {
+                    intervalType = "hour";
+                } else {
+                    interval = Math.floor(seconds / 60);
+                    if (interval >= 1) {
+                        intervalType = "minute";
+                    } else {
+                        interval = seconds;
+                        intervalType = "second";
+                    }
+                }
+            }
+        }
+    }
+
+    if (interval > 1 || interval === 0) {
+        intervalType += "s";
+    }
+
+    return incomingString + interval + " " + intervalType + pastString;
+};
 
 function insertSeparator(element) {
     let separator = document.createElement("hr");
