@@ -13,7 +13,6 @@ function fillIssues(data, elem, individual = false) {
         let body = document.createElement("span");
         body.className = "issue-body";
         body.innerText = parseIssueBody(issue.body);
-        parseIssueBody(issue.body)
         let time = new Date(issue.created_at);
         let details = document.createElement("span");
         details.className = "details";
