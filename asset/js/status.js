@@ -30,10 +30,7 @@ function getHealthcheckUrl(region) {
 
 function fetchHealthcheck(region, elem) {
     let url = getHealthcheckUrl(region);
-    /*  Maybe this will be changed to $.getJSON(url, ... 
-        allorigins api was used because of the CORS restrictions on web servers
-        */
-    $.getJSON("https://api.allorigins.win/get?url="+encodeURIComponent(url), function (data) {
+    $.getJSON(url, function (data) {
         fillStatus(region, data, elem);
     });
 }
