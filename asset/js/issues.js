@@ -19,10 +19,10 @@ function fillIssues(data, elem, individual = false) {
         if (issue.estimated_duration) {
             body.innerHTML += "<br/>Estimated duration: " + issue.estimated_duration;
         }
-        let time = moment(issue.created_at);
+        let created_at = moment(issue.created_at);
         let details = document.createElement("span");
         details.className = "details";
-        details.innerText = "#" + issue.number + " opened " + time.fromNow() + " by " + issue.user.login + " (comments:" + issue.comments + ")";
+        details.innerText = "#" + issue.number + " opened " + created_at.fromNow() + " by " + issue.user.login + " (comments:" + issue.comments + ")";
         let img = document.createElement("span");
         img.className = "icon";
         if (issue.state === "open"){
@@ -59,10 +59,10 @@ function fillComments(comments, elem) {
         let body = document.createElement("span");
         body.className = "comment-body";
         body.innerText = comment.body;
-        let time = new Date(comment.created_at).toISOString().slice(0,19).split("T");
+        let created_at = moment(comment.created_at);
         let details = document.createElement("span");
         details.className = "details";
-        details.innerText = "#" + comment.id + " written the " + time[0] + " at " + time[1] + "(UTC) by " + comment.user.login;
+        details.innerText = "#" + comment.id + " written " + created_at.fromNow() + " by " + comment.user.login;
         container.append(body);
         container.append(details);
         elem.appendChild(container);
