@@ -14,7 +14,7 @@ function fillIssues(data, elem, individual = false) {
         body.className = "issue-body";
         body.innerHTML = issue.body;
         if (issue.starting_datetime) {
-            body.innerHTML += "<br/>" + moment(issue.starting_datetime).fromNow();
+            body.innerHTML += "<br/>" + moment.utc(issue.starting_datetime, "YYYY-MM-DD hh:mm").fromNow();
         }
         if (issue.estimated_duration) {
             body.innerHTML += "<br/>Estimated duration: " + issue.estimated_duration;
