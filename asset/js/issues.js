@@ -13,8 +13,9 @@ function fillIssues(data, elem, individual = false) {
         let body = document.createElement("span");
         body.className = "issue-body";
         body.innerHTML = issue.body;
+        let starting_datetime = moment.utc(issue.starting_datetime, "YYYY-MM-DD hh:mm")
         if (issue.starting_datetime) {
-            body.innerHTML += "<br/>" + moment.utc(issue.starting_datetime, "YYYY-MM-DD hh:mm").fromNow();
+            body.innerHTML += "<br/>" + starting_datetime.fromNow() + " (" + starting_datetime.format("dddd, MMMM Do YYYY, hh:mm a") + ")";
         }
         if (issue.estimated_duration) {
             body.innerHTML += "<br/>Estimated duration: " + issue.estimated_duration;
@@ -22,7 +23,7 @@ function fillIssues(data, elem, individual = false) {
         let created_at = moment(issue.created_at);
         let details = document.createElement("span");
         details.className = "details";
-        details.innerText = "#" + issue.number + " opened " + created_at.fromNow() + " by " + issue.user.login + " (comments:" + issue.comments + ")";
+        details.innerText = "#" + issue.number + " opened " + created_at.fromNow() + " by " + issue.user.login + " (comments: " + issue.comments + ")";
         let img = document.createElement("span");
         img.className = "icon";
         if (issue.state === "open"){
