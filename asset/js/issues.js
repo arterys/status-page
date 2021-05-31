@@ -12,11 +12,17 @@ function fillIssues(data, elem, individual = false) {
         title.innerText = issue.title.trim();
         let body = document.createElement("span");
         body.className = "issue-body";
-        body.innerText = issue.body;
-        let time = new Date(issue.created_at).toISOString().slice(0,19).split("T");
+        body.innerHTML = issue.body;
+        if (issue.starting_datetime) {
+            body.innerHTML += "<br/>" + moment(issue.starting_datetime).fromNow();
+        }
+        if (issue.estimated_duration) {
+            body.innerHTML += "<br/>Estimated duration: " + issue.estimated_duration;
+        }
+        let time = moment(issue.created_at);
         let details = document.createElement("span");
         details.className = "details";
-        details.innerText = "#" + issue.number + " opened the " + time[0] + " at " + time[1] + "(UTC) by " + issue.user.login + " (comments:" + issue.comments + ")";
+        details.innerText = "#" + issue.number + " opened " + time.fromNow() + " by " + issue.user.login + " (comments:" + issue.comments + ")";
         let img = document.createElement("span");
         img.className = "icon";
         if (issue.state === "open"){
