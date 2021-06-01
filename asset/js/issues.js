@@ -13,16 +13,17 @@ function fillIssues(data, elem, individual = false) {
         let body = document.createElement("span");
         body.className = "issue-body";
         body.innerHTML = issue.body;
-        let starting_datetime = moment.utc(issue.starting_datetime, "YYYY-MM-DD hh:mm")
+        let starting_datetime = moment.utc(issue.starting_datetime, "YYYY-MM-DD hh:mm").local();
         if (issue.starting_datetime) {
-            body.innerHTML += "<br/>" + starting_datetime.fromNow() + " (" + starting_datetime.format("dddd, MMMM Do YYYY, hh:mm a") + ")";
+            body.innerHTML += "<br/><br/>" + starting_datetime.fromNow() + " (" + starting_datetime.format("dddd, MMMM Do YYYY, hh:mm a") + ")";
         }
         if (issue.estimated_duration) {
             body.innerHTML += "<br/>Estimated duration: " + issue.estimated_duration;
         }
-        let created_at = moment(issue.created_at);
         let details = document.createElement("span");
+        let created_at = moment(issue.created_at).local();
         details.className = "details";
+        details.title = created_at.format("dddd, MMMM Do YYYY, hh:mm a");
         details.innerText = "#" + issue.number + " opened " + created_at.fromNow() + " by " + issue.user.login + " (comments: " + issue.comments + ")";
         let img = document.createElement("span");
         img.className = "icon";
@@ -60,9 +61,10 @@ function fillComments(comments, elem) {
         let body = document.createElement("span");
         body.className = "comment-body";
         body.innerText = comment.body;
-        let created_at = moment(comment.created_at);
+        let created_at = moment(comment.created_at).local();
         let details = document.createElement("span");
         details.className = "details";
+        details.title = created_at.format("dddd, MMMM Do YYYY, hh:mm a")
         details.innerText = "#" + comment.id + " written " + created_at.fromNow() + " by " + comment.user.login;
         container.append(body);
         container.append(details);
