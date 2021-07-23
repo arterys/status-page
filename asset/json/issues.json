@@ -4,7 +4,7 @@
     "assignee": null,
     "assignees": [],
     "author_association": "NONE",
-    "body": "Minor bug fixes\n        starting_datetime: 2021-07-27 01:00 UTC\n        estimated_duration: 15 mins",
+    "body": "Minor bug fixes\r\n        starting_datetime: 2021-07-24 02:00 UTC\r\n        estimated_duration: 15 mins",
     "closed_at": null,
     "comments": 0,
     "comments_url": "https://api.github.com/repos/arterys/status-page/issues/10/comments",
@@ -32,7 +32,7 @@
     "repository_url": "https://api.github.com/repos/arterys/status-page",
     "state": "open",
     "title": "26.7.5",
-    "updated_at": "2021-07-20T13:41:05Z",
+    "updated_at": "2021-07-23T21:01:16Z",
     "url": "https://api.github.com/repos/arterys/status-page/issues/10",
     "user": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7460346?v=4",
