@@ -1,118 +1,30 @@
 [
   {
-    "url": "https://api.github.com/repos/arterys/status-page/issues/10",
-    "repository_url": "https://api.github.com/repos/arterys/status-page",
-    "labels_url": "https://api.github.com/repos/arterys/status-page/issues/10/labels{/name}",
-    "comments_url": "https://api.github.com/repos/arterys/status-page/issues/10/comments",
-    "events_url": "https://api.github.com/repos/arterys/status-page/issues/10/events",
     "html_url": "https://github.com/arterys/status-page/issues/10",
-    "id": 948666547,
-    "node_id": "MDU6SXNzdWU5NDg2NjY1NDc=",
     "number": 10,
     "title": "26.7.5",
     "user": {
-      "login": "MaddieLowe",
-      "id": 7460346,
-      "node_id": "MDQ6VXNlcjc0NjAzNDY=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7460346?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/MaddieLowe",
-      "html_url": "https://github.com/MaddieLowe",
-      "followers_url": "https://api.github.com/users/MaddieLowe/followers",
-      "following_url": "https://api.github.com/users/MaddieLowe/following{/other_user}",
-      "gists_url": "https://api.github.com/users/MaddieLowe/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/MaddieLowe/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/MaddieLowe/subscriptions",
-      "organizations_url": "https://api.github.com/users/MaddieLowe/orgs",
-      "repos_url": "https://api.github.com/users/MaddieLowe/repos",
-      "events_url": "https://api.github.com/users/MaddieLowe/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/MaddieLowe/received_events",
-      "type": "User",
-      "site_admin": false
+      "login": "MaddieLowe"
     },
-    "labels": [
-      {
-        "id": 2991040321,
-        "node_id": "MDU6TGFiZWwyOTkxMDQwMzIx",
-        "url": "https://api.github.com/repos/arterys/status-page/labels/maintenance",
-        "name": "maintenance",
-        "color": "D8D4DB",
-        "default": false,
-        "description": ""
-      }
-    ],
     "state": "open",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
     "comments": 0,
     "created_at": "2021-07-20T13:41:05Z",
-    "updated_at": "2021-07-23T21:01:16Z",
-    "closed_at": null,
-    "author_association": "NONE",
-    "active_lock_reason": null,
-    "body": "Minor bug fixes\r\n        starting_datetime: 2021-07-24 02:00 UTC\r\n        estimated_duration: 15 mins",
-    "performed_via_github_app": null
+    "body": "Minor bug fixes\n\n",
+    "starting_datetime": "2021-07-24 02:00 UTC",
+    "estimated_duration": "15 mins"
   },
   {
-    "url": "https://api.github.com/repos/arterys/status-page/issues/5",
-    "repository_url": "https://api.github.com/repos/arterys/status-page",
-    "labels_url": "https://api.github.com/repos/arterys/status-page/issues/5/labels{/name}",
-    "comments_url": "https://api.github.com/repos/arterys/status-page/issues/5/comments",
-    "events_url": "https://api.github.com/repos/arterys/status-page/issues/5/events",
     "html_url": "https://github.com/arterys/status-page/issues/5",
-    "id": 887498738,
-    "node_id": "MDU6SXNzdWU4ODc0OTg3Mzg=",
     "number": 5,
     "title": "26.2.1 Release",
     "user": {
-      "login": "MaddieLowe",
-      "id": 7460346,
-      "node_id": "MDQ6VXNlcjc0NjAzNDY=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7460346?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/MaddieLowe",
-      "html_url": "https://github.com/MaddieLowe",
-      "followers_url": "https://api.github.com/users/MaddieLowe/followers",
-      "following_url": "https://api.github.com/users/MaddieLowe/following{/other_user}",
-      "gists_url": "https://api.github.com/users/MaddieLowe/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/MaddieLowe/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/MaddieLowe/subscriptions",
-      "organizations_url": "https://api.github.com/users/MaddieLowe/orgs",
-      "repos_url": "https://api.github.com/users/MaddieLowe/repos",
-      "events_url": "https://api.github.com/users/MaddieLowe/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/MaddieLowe/received_events",
-      "type": "User",
-      "site_admin": false
+      "login": "MaddieLowe"
     },
-    "labels": [
-      {
-        "id": 2991040321,
-        "node_id": "MDU6TGFiZWwyOTkxMDQwMzIx",
-        "url": "https://api.github.com/repos/arterys/status-page/labels/maintenance",
-        "name": "maintenance",
-        "color": "D8D4DB",
-        "default": false,
-        "description": ""
-      }
-    ],
     "state": "closed",
-    "locked": false,
-    "assignee": null,
-    "assignees": [
-
-    ],
-    "milestone": null,
     "comments": 0,
     "created_at": "2021-05-11T14:42:18Z",
-    "updated_at": "2021-05-11T14:49:31Z",
-    "closed_at": "2021-05-11T14:49:31Z",
-    "author_association": "NONE",
-    "active_lock_reason": null,
-    "body": "starting_datetime: 2021-05-11 01:00 UTC\n        estimated_duration: 15 mins\n        Minor bug fixes",
-    "performed_via_github_app": null
+    "body": "Minor bug fixes",
+    "starting_datetime": "2021-05-11 01:00 UTC",
+    "estimated_duration": "15 mins"
   }
 ]
