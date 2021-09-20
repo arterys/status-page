@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/20",
+    "number": 20,
+    "title": "27.1.1 Patch Release",
+    "user": {
+      "login": "bidulock"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-09-20T22:38:49Z",
+    "body": "Minor bug fixes\n\n",
+    "starting_datetime": "2021-09-21 02:00 UTC",
+    "estimated_duration": "15 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/19",
     "number": 19,
     "title": "27.1.0 Minor Release",
