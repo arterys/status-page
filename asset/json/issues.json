@@ -1,5 +1,19 @@
 [
   {
+    "body": "N/A\n\n",
+    "comments": 0,
+    "created_at": "2021-09-28T23:04:32Z",
+    "estimated_duration": "1 hour",
+    "html_url": "https://github.com/arterys/status-page/issues/22",
+    "number": 22,
+    "starting_datetime": "2021-09-29 03:30 UTC",
+    "state": "open",
+    "title": "Scheduled Maintenance",
+    "user": {
+      "login": "bidulock"
+    }
+  },
+  {
     "body": "Improves the performance of video screen captures\n\n",
     "comments": 0,
     "created_at": "2021-09-23T22:13:35Z",
