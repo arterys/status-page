@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/25",
+    "number": 25,
+    "title": "27.2.3 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-10-08T22:03:07Z",
+    "body": "Bug fixes\n\n",
+    "starting_datetime": "2021-10-09 02:00 UTC",
+    "estimated_duration": "15 min"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/24",
     "number": 24,
     "title": "27.2.2 Patch Release",

@@ -2,6 +2,20 @@
   {
     "body": "Bug fixes\n\n",
     "comments": 0,
+    "created_at": "2021-10-08T22:03:07Z",
+    "estimated_duration": "15 min",
+    "html_url": "https://github.com/arterys/status-page/issues/25",
+    "number": 25,
+    "starting_datetime": "2021-10-09 02:00 UTC",
+    "state": "open",
+    "title": "27.2.3 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
+    "body": "Bug fixes\n\n",
+    "comments": 0,
     "created_at": "2021-10-06T22:39:17Z",
     "estimated_duration": "15 mins",
     "html_url": "https://github.com/arterys/status-page/issues/24",
