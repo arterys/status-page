@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/26",
+    "number": 26,
+    "title": "27.2.4 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-10-14T22:20:36Z",
+    "body": "Fix T1, T2, and T2* bugs\n\n",
+    "starting_datetime": "2021-10-15 02:00 UTC",
+    "estimated_duration": "15 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/25",
     "number": 25,
     "title": "27.2.3 Patch Release",
