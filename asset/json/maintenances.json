@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/27",
+    "number": 27,
+    "title": "27.3.0 Release",
+    "user": {
+      "login": "bidulock"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-10-18T22:53:56Z",
+    "body": "Enabling support for Microsoft Edge v80+\n\n",
+    "starting_datetime": "2021-10-19 02:00 UTC",
+    "estimated_duration": "30 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/26",
     "number": 26,
     "title": "27.2.4 Patch Release",

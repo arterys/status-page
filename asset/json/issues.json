@@ -1,5 +1,19 @@
 [
   {
+    "body": "Enabling support for Microsoft Edge v80+\n\n",
+    "comments": 0,
+    "created_at": "2021-10-18T22:53:56Z",
+    "estimated_duration": "30 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/27",
+    "number": 27,
+    "starting_datetime": "2021-10-19 02:00 UTC",
+    "state": "open",
+    "title": "27.3.0 Release",
+    "user": {
+      "login": "bidulock"
+    }
+  },
+  {
     "body": "Fix T1, T2, and T2* bugs\n\n",
     "comments": 0,
     "created_at": "2021-10-14T22:20:36Z",
