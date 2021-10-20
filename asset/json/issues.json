@@ -1,5 +1,19 @@
 [
   {
+    "body": "Bug fixes\n\n",
+    "comments": 0,
+    "created_at": "2021-10-20T21:10:31Z",
+    "estimated_duration": "15 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/28",
+    "number": 28,
+    "starting_datetime": "2021-10-21 02:00 UTC",
+    "state": "open",
+    "title": "27.3.1 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
     "body": "Enabling support for Microsoft Edge v80+\n\n",
     "comments": 0,
     "created_at": "2021-10-18T22:53:56Z",
