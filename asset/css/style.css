@@ -297,12 +297,16 @@ main {
     fill: #6fa85d;
 }
 
-#mf-cross-s, .issue-closed{
+#mf-cross-s {
     fill: #b12c2c;
 }
 
+.issue-closed {
+    fill: #9261f2;
+}
+
 /* some styles to make the page responsive */
-@media screen and (max-width: 800px){
+@media screen and (max-width: 800px) {
     .top-row {
         flex-direction: column;
         align-items: center;
