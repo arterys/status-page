@@ -1,5 +1,19 @@
 [
   {
+    "body": "Improve image loading reliability\n\n",
+    "comments": 0,
+    "created_at": "2021-11-23T21:55:43Z",
+    "estimated_duration": "15 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/33",
+    "number": 33,
+    "starting_datetime": "",
+    "state": "open",
+    "title": "24.7.2 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
     "body": "Bug fixes\n\n",
     "comments": 0,
     "created_at": "2021-11-22T23:31:21Z",
