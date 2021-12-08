@@ -21,7 +21,7 @@
     "html_url": "https://github.com/arterys/status-page/issues/33",
     "number": 33,
     "starting_datetime": "2021-11-23MDT19:00",
-    "state": "open",
+    "state": "closed",
     "title": "24.7.2 Patch Release",
     "user": {
       "login": "MaddieLowe"
@@ -35,7 +35,7 @@
     "html_url": "https://github.com/arterys/status-page/issues/32",
     "number": 32,
     "starting_datetime": "",
-    "state": "open",
+    "state": "closed",
     "title": "24.7.1 Patch Release",
     "user": {
       "login": "MaddieLowe"
@@ -49,7 +49,7 @@
     "html_url": "https://github.com/arterys/status-page/issues/30",
     "number": 30,
     "starting_datetime": "2021-11-19 03:00 UTC",
-    "state": "open",
+    "state": "closed",
     "title": "27.4.0 Release",
     "user": {
       "login": "bidulock"
