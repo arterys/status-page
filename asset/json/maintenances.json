@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/35",
+    "number": 35,
+    "title": "27.5.2 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-12-09T23:50:17Z",
+    "body": "cardiac application bug fixes\n\n",
+    "starting_datetime": "2021-12-10 03:00 UTC",
+    "estimated_duration": "20 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/34",
     "number": 34,
     "title": "27.5.0 Release",
