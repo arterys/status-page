@@ -1,5 +1,19 @@
 [
   {
+    "body": "Minor bug fixes, and performance improvements\n\n",
+    "comments": 0,
+    "created_at": "2021-12-22T22:14:21Z",
+    "estimated_duration": "15 min",
+    "html_url": "https://github.com/arterys/status-page/issues/37",
+    "number": 37,
+    "starting_datetime": "2021-12-23 03:00 UTC",
+    "state": "open",
+    "title": "27.5.5 Patch Release",
+    "user": {
+      "login": "bidulock"
+    }
+  },
+  {
     "body": "cardiac application bug fixes\n\n",
     "comments": 0,
     "created_at": "2021-12-09T23:50:17Z",

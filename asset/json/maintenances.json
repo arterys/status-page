@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/37",
+    "number": 37,
+    "title": "27.5.5 Patch Release",
+    "user": {
+      "login": "bidulock"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2021-12-22T22:14:21Z",
+    "body": "Minor bug fixes, and performance improvements\n\n",
+    "starting_datetime": "2021-12-23 03:00 UTC",
+    "estimated_duration": "15 min"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/35",
     "number": 35,
     "title": "27.5.2 Patch Release",
