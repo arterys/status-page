@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/39",
+    "number": 39,
+    "title": "27.7.0 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-01-14T21:48:56Z",
+    "body": "Improves inference time\n\n",
+    "starting_datetime": "2022-01-15 03:00 UTC",
+    "estimated_duration": "20 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/38",
     "number": 38,
     "title": "27.6.0 Release",
