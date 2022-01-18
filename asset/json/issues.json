@@ -1,5 +1,19 @@
 [
   {
+    "body": "Minor bug fixes\n\n",
+    "comments": 0,
+    "created_at": "2022-01-18T02:28:18Z",
+    "estimated_duration": "20 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/40",
+    "number": 40,
+    "starting_datetime": "2022-01-18 03:00 UTC",
+    "state": "open",
+    "title": "27.7.1 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Improves inference time\n\n",
     "comments": 0,
     "created_at": "2022-01-14T21:48:56Z",
