@@ -2,6 +2,20 @@
   {
     "body": "Minor bug fixes\n\n",
     "comments": 0,
+    "created_at": "2022-01-19T23:51:40Z",
+    "estimated_duration": "20 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/41",
+    "number": 41,
+    "starting_datetime": "2022-01-20 03:00 UTC",
+    "state": "open",
+    "title": "27.7.2 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
+    "body": "Minor bug fixes\n\n",
+    "comments": 0,
     "created_at": "2022-01-18T02:28:18Z",
     "estimated_duration": "20 mins",
     "html_url": "https://github.com/arterys/status-page/issues/40",
