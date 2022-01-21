@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/42",
+    "number": 42,
+    "title": "27.7.3 Patch Release",
+    "user": {
+      "login": "bidulock"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-01-21T00:10:52Z",
+    "body": "Stability improvement\n\n",
+    "starting_datetime": "2022-01-21 03:00 UTC",
+    "estimated_duration": "15 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/41",
     "number": 41,
     "title": "27.7.2 Patch Release",
