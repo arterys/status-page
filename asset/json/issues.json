@@ -1,5 +1,19 @@
 [
   {
+    "body": "Minor bug fixes\n\n",
+    "comments": 0,
+    "created_at": "2022-02-02T22:23:16Z",
+    "estimated_duration": "15 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/43",
+    "number": 43,
+    "starting_datetime": "2022-02-03 02:00 UTC",
+    "state": "open",
+    "title": "27.7.4 Maintenance Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
     "body": "Stability improvement\n\n",
     "comments": 0,
     "created_at": "2022-01-21T00:10:52Z",
