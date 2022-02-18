@@ -1,5 +1,19 @@
 [
   {
+    "body": "performance update\n\n",
+    "comments": 0,
+    "created_at": "2022-02-18T02:35:53Z",
+    "estimated_duration": "30 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/46",
+    "number": 46,
+    "starting_datetime": "2022-02-18 03:00 UTC",
+    "state": "open",
+    "title": "27.8.2 Patch Release",
+    "user": {
+      "login": "bidulock"
+    }
+  },
+  {
     "body": "Minor improvements\n\n",
     "comments": 0,
     "created_at": "2022-02-15T00:15:28Z",
@@ -403,20 +417,6 @@
     "title": "26.9.2 Patch Release",
     "user": {
       "login": "bidulock"
-    }
-  },
-  {
-    "body": "Minor bug fixes\n\n",
-    "comments": 0,
-    "created_at": "2021-08-16T15:46:02Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/14",
-    "number": 14,
-    "starting_datetime": "2021-08-16 19:00:00",
-    "state": "closed",
-    "title": "26.9.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
     }
   }
 ]
