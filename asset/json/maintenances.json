@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/47",
+    "number": 47,
+    "title": "27.9.0 Minor Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-02-22T23:14:44Z",
+    "body": "AI model updates\n\n",
+    "starting_datetime": "2022-02-23 03:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/46",
     "number": 46,
     "title": "27.8.2 Patch Release",
@@ -404,19 +418,5 @@
     "body": "Lung application improvements\n\n",
     "starting_datetime": "2021-08-26 02:00 UTC",
     "estimated_duration": "30 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/15",
-    "number": 15,
-    "title": "26.9.2 Patch Release",
-    "user": {
-      "login": "bidulock"
-    },
-    "state": "closed",
-    "comments": 0,
-    "created_at": "2021-08-23T20:21:34Z",
-    "body": "Minor bug fixes, and a performance regression fix\n\n",
-    "starting_datetime": "2021-08-24 02:00 UTC",
-    "estimated_duration": "15 mins"
   }
 ]
