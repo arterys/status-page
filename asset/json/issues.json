@@ -2,6 +2,20 @@
   {
     "body": "Maintenance release\n\n",
     "comments": 0,
+    "created_at": "2022-03-08T22:46:44Z",
+    "estimated_duration": "15mins",
+    "html_url": "https://github.com/arterys/status-page/issues/49",
+    "number": 49,
+    "starting_datetime": "2022-03-09 03:00 UTC",
+    "state": "open",
+    "title": "27.9.3 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
+    "body": "Maintenance release\n\n",
+    "comments": 0,
     "created_at": "2022-03-01T20:46:12Z",
     "estimated_duration": "15mins",
     "html_url": "https://github.com/arterys/status-page/issues/48",
@@ -403,20 +417,6 @@
     "title": "27.0.0 Release",
     "user": {
       "login": "justinfranco"
-    }
-  },
-  {
-    "body": "Minor bug fixes, in-app chat enabled\n\n",
-    "comments": 0,
-    "created_at": "2021-09-01T22:39:19Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/17",
-    "number": 17,
-    "starting_datetime": "2021-09-02 01:00 UTC",
-    "state": "closed",
-    "title": "26.10.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
     }
   }
 ]
