@@ -10,8 +10,8 @@
     "comments": 0,
     "created_at": "2022-03-14T21:28:30Z",
     "body": "Maintenance release\n\n",
-    "starting_datetime": "2022-03-15 02:00 UTC",
-    "estimated_duration": "15mins"
+    "starting_datetime": "2022-03-15 03:00 UTC",
+    "estimated_duration": "30mins"
   },
   {
     "html_url": "https://github.com/arterys/status-page/issues/49",
