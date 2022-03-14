@@ -2,6 +2,20 @@
   {
     "body": "Maintenance release\n\n",
     "comments": 0,
+    "created_at": "2022-03-14T21:28:30Z",
+    "estimated_duration": "15mins",
+    "html_url": "https://github.com/arterys/status-page/issues/50",
+    "number": 50,
+    "starting_datetime": "2022-03-15 02:00 UTC",
+    "state": "open",
+    "title": "27.9.4",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
+    "body": "Maintenance release\n\n",
+    "comments": 0,
     "created_at": "2022-03-08T22:46:44Z",
     "estimated_duration": "15mins",
     "html_url": "https://github.com/arterys/status-page/issues/49",
@@ -403,20 +417,6 @@
     "title": "27.1.0 Minor Release",
     "user": {
       "login": "bidulock"
-    }
-  },
-  {
-    "body": "infrastructure improvements\n\n",
-    "comments": 0,
-    "created_at": "2021-09-11T03:35:08Z",
-    "estimated_duration": "45 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/18",
-    "number": 18,
-    "starting_datetime": "2021-09-10 18:30 UTC",
-    "state": "open",
-    "title": "27.0.0 Release",
-    "user": {
-      "login": "justinfranco"
     }
   }
 ]
