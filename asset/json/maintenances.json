@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/54",
+    "number": 54,
+    "title": " Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-03-28T22:50:51Z",
+    "body": "Bug Fixes\n\n",
+    "starting_datetime": "",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/53",
     "number": 53,
     "title": "27.10.2 Patch Release",
@@ -404,19 +418,5 @@
     "body": "Performance improvements and bug fixes\n\n",
     "starting_datetime": "2021-10-05 02:00 MDT",
     "estimated_duration": "15 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/22",
-    "number": 22,
-    "title": "Scheduled Maintenance",
-    "user": {
-      "login": "bidulock"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2021-09-28T23:04:32Z",
-    "body": "N/A\n\n",
-    "starting_datetime": "2021-09-29 03:30 UTC",
-    "estimated_duration": "1 hour"
   }
 ]

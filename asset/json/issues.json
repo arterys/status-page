@@ -2,6 +2,20 @@
   {
     "body": "Bug Fixes\n\n",
     "comments": 0,
+    "created_at": "2022-03-28T22:50:51Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/54",
+    "number": 54,
+    "starting_datetime": "",
+    "state": "open",
+    "title": " Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
     "created_at": "2022-03-24T21:47:11Z",
     "estimated_duration": "20 minutes",
     "html_url": "https://github.com/arterys/status-page/issues/53",
@@ -403,20 +417,6 @@
     "title": "27.2.1 Patch Release",
     "user": {
       "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "N/A\n\n",
-    "comments": 0,
-    "created_at": "2021-09-28T23:04:32Z",
-    "estimated_duration": "1 hour",
-    "html_url": "https://github.com/arterys/status-page/issues/22",
-    "number": 22,
-    "starting_datetime": "2021-09-29 03:30 UTC",
-    "state": "open",
-    "title": "Scheduled Maintenance",
-    "user": {
-      "login": "bidulock"
     }
   }
 ]
