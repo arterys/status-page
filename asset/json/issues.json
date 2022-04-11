@@ -1,5 +1,19 @@
 [
   {
+    "body": "Fixes bugs and adds further support for Siemens Angio\n\n",
+    "comments": 0,
+    "created_at": "2022-04-11T18:55:01Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/57",
+    "number": 57,
+    "starting_datetime": "2022-04-12 02:30 UTC",
+    "state": "open",
+    "title": "27.11.2 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Improves processing pipeline\n\n",
     "comments": 0,
     "created_at": "2022-04-06T21:07:02Z",
@@ -401,20 +415,6 @@
     "starting_datetime": "2021-10-15 02:00 UTC",
     "state": "open",
     "title": "27.2.4 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Bug fixes\n\n",
-    "comments": 0,
-    "created_at": "2021-10-08T22:03:07Z",
-    "estimated_duration": "15 min",
-    "html_url": "https://github.com/arterys/status-page/issues/25",
-    "number": 25,
-    "starting_datetime": "2021-10-09 02:00 UTC",
-    "state": "open",
-    "title": "27.2.3 Patch Release",
     "user": {
       "login": "MaddieLowe"
     }

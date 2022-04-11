@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/57",
+    "number": 57,
+    "title": "27.11.2 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-04-11T18:55:01Z",
+    "body": "Fixes bugs and adds further support for Siemens Angio\n\n",
+    "starting_datetime": "2022-04-12 02:30 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/56",
     "number": 56,
     "title": "27.11.1 Patch Release",
@@ -404,19 +418,5 @@
     "body": "Fix T1, T2, and T2* bugs\n\n",
     "starting_datetime": "2021-10-15 02:00 UTC",
     "estimated_duration": "15 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/25",
-    "number": 25,
-    "title": "27.2.3 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2021-10-08T22:03:07Z",
-    "body": "Bug fixes\n\n",
-    "starting_datetime": "2021-10-09 02:00 UTC",
-    "estimated_duration": "15 min"
   }
 ]
