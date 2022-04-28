@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/61",
+    "number": 61,
+    "title": "27.13.0 Minor Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-04-28T21:32:43Z",
+    "body": "Reduces some inference turn-around times\n\n",
+    "starting_datetime": "2022-04-29 02:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/60",
     "number": 60,
     "title": "27.12.1 Patch Release",
@@ -403,20 +417,6 @@
     "created_at": "2021-11-19T00:30:10Z",
     "body": "Framework for improved processing performance\n\n",
     "starting_datetime": "2021-11-19 03:00 UTC",
-    "estimated_duration": "20 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/29",
-    "number": 29,
-    "title": "27.3.3 Patch Release",
-    "user": {
-      "login": "robert-newton"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2021-11-01T19:00:44Z",
-    "body": "Bug fixes, Chatlio improvments, DICOM SR update\n\n",
-    "starting_datetime": "2021-11-02 02:00 UTC",
     "estimated_duration": "20 mins"
   }
 ]
