@@ -1,5 +1,47 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/64",
+    "number": 64,
+    "title": "27.14.1 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-05-06T00:32:10Z",
+    "body": "Various bug fixes\n\n",
+    "starting_datetime": "",
+    "estimated_duration": "20 minutes"
+  },
+  {
+    "html_url": "https://github.com/arterys/status-page/issues/63",
+    "number": 63,
+    "title": "27.14.0",
+    "user": {
+      "login": "bidulock"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-05-04T23:08:33Z",
+    "body": "27.14.0 Release\n\n",
+    "starting_datetime": "2022-05-05 03:25 UTC",
+    "estimated_duration": "30 min"
+  },
+  {
+    "html_url": "https://github.com/arterys/status-page/issues/62",
+    "number": 62,
+    "title": "27.14.0 Minor Release",
+    "user": {
+      "login": "justinfranco"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-05-04T23:03:20Z",
+    "body": "Add radial and circumferential cardiac strain\n\n",
+    "starting_datetime": "2022-05-05 02:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/61",
     "number": 61,
     "title": "27.13.0 Minor Release",
@@ -376,47 +418,5 @@
     "body": "Wall thickness\n\n",
     "starting_datetime": "2021-12-09 03:00 UTC",
     "estimated_duration": "15 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/33",
-    "number": 33,
-    "title": "24.7.2 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "closed",
-    "comments": 0,
-    "created_at": "2021-11-23T21:55:43Z",
-    "body": "Improve image loading reliability\n\n",
-    "starting_datetime": "2021-11-23MDT19:00",
-    "estimated_duration": "15 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/32",
-    "number": 32,
-    "title": "24.7.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "closed",
-    "comments": 0,
-    "created_at": "2021-11-22T23:31:21Z",
-    "body": "Bug fixes\n\n",
-    "starting_datetime": "",
-    "estimated_duration": "15 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/30",
-    "number": 30,
-    "title": "27.4.0 Release",
-    "user": {
-      "login": "bidulock"
-    },
-    "state": "closed",
-    "comments": 0,
-    "created_at": "2021-11-19T00:30:10Z",
-    "body": "Framework for improved processing performance\n\n",
-    "starting_datetime": "2021-11-19 03:00 UTC",
-    "estimated_duration": "20 mins"
   }
 ]

@@ -1,5 +1,47 @@
 [
   {
+    "body": "Various bug fixes\n\n",
+    "comments": 0,
+    "created_at": "2022-05-06T00:32:10Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/64",
+    "number": 64,
+    "starting_datetime": "",
+    "state": "open",
+    "title": "27.14.1 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
+    "body": "27.14.0 Release\n\n",
+    "comments": 0,
+    "created_at": "2022-05-04T23:08:33Z",
+    "estimated_duration": "30 min",
+    "html_url": "https://github.com/arterys/status-page/issues/63",
+    "number": 63,
+    "starting_datetime": "2022-05-05 03:25 UTC",
+    "state": "open",
+    "title": "27.14.0",
+    "user": {
+      "login": "bidulock"
+    }
+  },
+  {
+    "body": "Add radial and circumferential cardiac strain\n\n",
+    "comments": 0,
+    "created_at": "2022-05-04T23:03:20Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/62",
+    "number": 62,
+    "starting_datetime": "2022-05-05 02:00 UTC",
+    "state": "open",
+    "title": "27.14.0 Minor Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Reduces some inference turn-around times\n\n",
     "comments": 0,
     "created_at": "2022-04-28T21:32:43Z",
@@ -375,48 +417,6 @@
     "title": "27.5.0 Release",
     "user": {
       "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Improve image loading reliability\n\n",
-    "comments": 0,
-    "created_at": "2021-11-23T21:55:43Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/33",
-    "number": 33,
-    "starting_datetime": "2021-11-23MDT19:00",
-    "state": "closed",
-    "title": "24.7.2 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Bug fixes\n\n",
-    "comments": 0,
-    "created_at": "2021-11-22T23:31:21Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/32",
-    "number": 32,
-    "starting_datetime": "",
-    "state": "closed",
-    "title": "24.7.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Framework for improved processing performance\n\n",
-    "comments": 0,
-    "created_at": "2021-11-19T00:30:10Z",
-    "estimated_duration": "20 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/30",
-    "number": 30,
-    "starting_datetime": "2021-11-19 03:00 UTC",
-    "state": "closed",
-    "title": "27.4.0 Release",
-    "user": {
-      "login": "bidulock"
     }
   }
 ]
