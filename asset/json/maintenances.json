@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/66",
+    "number": 66,
+    "title": "27.14.3 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-05-25T22:19:20Z",
+    "body": "Bug Fixes\n\n",
+    "starting_datetime": "2022-05-26 02:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/65",
     "number": 65,
     "title": "27.14.2 Patch Release",
@@ -404,19 +418,5 @@
     "body": "Minor bug fixes, and performance improvements\n\n",
     "starting_datetime": "2021-12-23 03:00 UTC",
     "estimated_duration": "15 min"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/35",
-    "number": 35,
-    "title": "27.5.2 Patch Release",
-    "user": {
-      "login": "justinfranco"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2021-12-09T23:50:17Z",
-    "body": "cardiac application bug fixes\n\n",
-    "starting_datetime": "2021-12-10 03:00 UTC",
-    "estimated_duration": "20 mins"
   }
 ]
