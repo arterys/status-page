@@ -2,6 +2,20 @@
   {
     "body": "Bug Fixes\n\n",
     "comments": 0,
+    "created_at": "2022-06-13T23:07:58Z",
+    "estimated_duration": "15 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/69",
+    "number": 69,
+    "starting_datetime": "2022-06-14 02:00 UTC",
+    "state": "open",
+    "title": "28.0.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
     "created_at": "2022-06-01T21:32:25Z",
     "estimated_duration": "20 minutes",
     "html_url": "https://github.com/arterys/status-page/issues/67",
@@ -401,20 +415,6 @@
     "starting_datetime": "2022-01-15 03:00 UTC",
     "state": "open",
     "title": "27.7.0 Patch Release",
-    "user": {
-      "login": "justinfranco"
-    }
-  },
-  {
-    "body": "Decreases the turn-around time for a study\n\n",
-    "comments": 0,
-    "created_at": "2022-01-06T23:40:33Z",
-    "estimated_duration": "20 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/38",
-    "number": 38,
-    "starting_datetime": "2022-01-07 03:00 UTC",
-    "state": "open",
-    "title": "27.6.0 Release",
     "user": {
       "login": "justinfranco"
     }
