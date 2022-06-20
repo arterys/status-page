@@ -1,5 +1,19 @@
 [
   {
+    "body": "Mock Release to test the notifier",
+    "comments": 0,
+    "created_at": "2022-06-20T18:04:58Z",
+    "estimated_duration": "30 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/72",
+    "number": 72,
+    "starting_datetime": "2022-06-20 02:00 UTC",
+    "state": "open",
+    "title": "Test",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Bug Fixes\n\n",
     "comments": 0,
     "created_at": "2022-06-16T21:31:21Z",
@@ -403,20 +417,6 @@
     "title": "27.7.3 Patch Release",
     "user": {
       "login": "bidulock"
-    }
-  },
-  {
-    "body": "Minor bug fixes\n\n",
-    "comments": 0,
-    "created_at": "2022-01-19T23:51:40Z",
-    "estimated_duration": "20 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/41",
-    "number": 41,
-    "starting_datetime": "2022-01-20 03:00 UTC",
-    "state": "open",
-    "title": "27.7.2 Patch Release",
-    "user": {
-      "login": "justinfranco"
     }
   }
 ]
