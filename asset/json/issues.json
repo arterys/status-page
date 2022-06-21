@@ -1,5 +1,19 @@
 [
   {
+    "body": "Improved performance for BreastAI\n\n",
+    "comments": 0,
+    "created_at": "2022-06-21T23:08:20Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/73",
+    "number": 73,
+    "starting_datetime": "2022-06-22 02:00 UTC",
+    "state": "open",
+    "title": "28.1.0 Minor Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Mock Release to test the notifier",
     "comments": 0,
     "created_at": "2022-06-20T18:04:58Z",
@@ -403,20 +417,6 @@
     "title": "27.7.4 Maintenance Release",
     "user": {
       "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Stability improvement\n\n",
-    "comments": 0,
-    "created_at": "2022-01-21T00:10:52Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/42",
-    "number": 42,
-    "starting_datetime": "2022-01-21 03:00 UTC",
-    "state": "open",
-    "title": "27.7.3 Patch Release",
-    "user": {
-      "login": "bidulock"
     }
   }
 ]
