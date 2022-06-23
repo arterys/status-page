@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/74",
+    "number": 74,
+    "title": "28.1.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-06-23T20:23:12Z",
+    "body": "Bug Fixes\n\n",
+    "starting_datetime": "2022-06-24 02:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/73",
     "number": 73,
     "title": "28.1.0 Minor Release",
@@ -404,19 +418,5 @@
     "body": "ML result turn around time improvements\n\n",
     "starting_datetime": "2022-02-08 03:00 UTC",
     "estimated_duration": "30 mins"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/43",
-    "number": 43,
-    "title": "27.7.4 Maintenance Release",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-02-02T22:23:16Z",
-    "body": "Minor bug fixes\n\n",
-    "starting_datetime": "2022-02-03 02:00 UTC",
-    "estimated_duration": "15 mins"
   }
 ]
