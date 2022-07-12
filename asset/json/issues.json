@@ -2,6 +2,20 @@
   {
     "body": "Bug Fixes\n\n",
     "comments": 0,
+    "created_at": "2022-07-12T22:28:46Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/78",
+    "number": 78,
+    "starting_datetime": "2022-07-13 02:00 UTC",
+    "state": "open",
+    "title": "28.1.5 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
     "created_at": "2022-07-11T23:04:52Z",
     "estimated_duration": "20 minutes",
     "html_url": "https://github.com/arterys/status-page/issues/77",
@@ -403,20 +417,6 @@
     "title": "27.9.2 Patch Release",
     "user": {
       "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "AI model updates\n\n",
-    "comments": 0,
-    "created_at": "2022-02-22T23:14:44Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/47",
-    "number": 47,
-    "starting_datetime": "2022-02-23 03:00 UTC",
-    "state": "open",
-    "title": "27.9.0 Minor Release",
-    "user": {
-      "login": "justinfranco"
     }
   }
 ]
