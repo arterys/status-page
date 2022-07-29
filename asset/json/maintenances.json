@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/81",
+    "number": 81,
+    "title": "28.2.1 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-07-29T21:37:19Z",
+    "body": "Minor bug fixes\n\n",
+    "starting_datetime": "2022-07-30 02:30 UTC",
+    "estimated_duration": "15 mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/80",
     "number": 80,
     "title": "28.2.0 Release",
@@ -404,19 +418,5 @@
     "body": "Brain AI algorithm updates\n\n",
     "starting_datetime": "2022-03-18 02:00 UTC",
     "estimated_duration": "20 minutes"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/50",
-    "number": 50,
-    "title": "27.9.4",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-03-14T21:28:30Z",
-    "body": "Maintenance release\n\n",
-    "starting_datetime": "2022-03-15 03:00 UTC",
-    "estimated_duration": "30mins"
   }
 ]
