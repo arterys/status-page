@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/85",
+    "number": 85,
+    "title": "28.2.5 Patch Release",
+    "user": {
+      "login": "MaddieLowe"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-08-25T00:26:49Z",
+    "body": "Minor bug fixes\n\n",
+    "starting_datetime": "2022-08-25 03:00 UTC",
+    "estimated_duration": "15 min"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/84",
     "number": 84,
     "title": "28.2.4 Patch Release",
@@ -403,20 +417,6 @@
     "created_at": "2022-04-04T21:06:41Z",
     "body": "Adds support for calculating atrial volumes\n\n",
     "starting_datetime": "2022-04-05 02:00 UTC",
-    "estimated_duration": "20 minutes"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/54",
-    "number": 54,
-    "title": "27.10.3 Patch Release",
-    "user": {
-      "login": "bcjroberts"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-03-28T22:50:51Z",
-    "body": "Bug Fixes\n\n",
-    "starting_datetime": "2022-03-29 02:00 UTC",
     "estimated_duration": "20 minutes"
   }
 ]
