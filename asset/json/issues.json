@@ -1,5 +1,19 @@
 [
   {
+    "body": "Scalability and availability improvements\n\n",
+    "comments": 0,
+    "created_at": "2022-09-06T22:13:45Z",
+    "estimated_duration": "45 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/87",
+    "number": 87,
+    "starting_datetime": "2022-09-07 01:30 UTC",
+    "state": "open",
+    "title": "29.0.0 Major Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Bug Fixes\n\n",
     "comments": 0,
     "created_at": "2022-09-01T21:18:25Z",
@@ -401,20 +415,6 @@
     "starting_datetime": "2022-04-12 02:30 UTC",
     "state": "open",
     "title": "27.11.2 Patch Release",
-    "user": {
-      "login": "justinfranco"
-    }
-  },
-  {
-    "body": "Improves processing pipeline\n\n",
-    "comments": 0,
-    "created_at": "2022-04-06T21:07:02Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/56",
-    "number": 56,
-    "starting_datetime": "2022-04-07 02:00 UTC",
-    "state": "open",
-    "title": "27.11.1 Patch Release",
     "user": {
       "login": "justinfranco"
     }
