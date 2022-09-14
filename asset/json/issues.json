@@ -1,5 +1,19 @@
 [
   {
+    "body": "bug fixes\n\n",
+    "comments": 0,
+    "created_at": "2022-09-14T21:15:25Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/88",
+    "number": 88,
+    "starting_datetime": "2022-09-15 02:00 UTC",
+    "state": "open",
+    "title": "29.0.1 Patch Release",
+    "user": {
+      "login": "justinfranco"
+    }
+  },
+  {
     "body": "Scalability and availability improvements\n\n",
     "comments": 0,
     "created_at": "2022-09-06T22:13:45Z",
@@ -403,20 +417,6 @@
     "title": "27.11.3 Patch Release",
     "user": {
       "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "Fixes bugs and adds further support for Siemens Angio\n\n",
-    "comments": 0,
-    "created_at": "2022-04-11T18:55:01Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/57",
-    "number": 57,
-    "starting_datetime": "2022-04-12 02:30 UTC",
-    "state": "open",
-    "title": "27.11.2 Patch Release",
-    "user": {
-      "login": "justinfranco"
     }
   }
 ]
