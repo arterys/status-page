@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/93",
+    "number": 93,
+    "title": "29.2.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2022-10-13T23:10:56Z",
+    "body": "Bug Fixes\n\n",
+    "starting_datetime": "2022-10-14 01:00 UTC",
+    "estimated_duration": "30 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/92",
     "number": 92,
     "title": "29.2.0 Minor Release",
@@ -404,19 +418,5 @@
     "body": "27.14.0 Release\n\n",
     "starting_datetime": "2022-05-05 03:25 UTC",
     "estimated_duration": "30 min"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/62",
-    "number": 62,
-    "title": "27.14.0 Minor Release",
-    "user": {
-      "login": "justinfranco"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-05-04T23:03:20Z",
-    "body": "Add radial and circumferential cardiac strain\n\n",
-    "starting_datetime": "2022-05-05 02:00 UTC",
-    "estimated_duration": "20 minutes"
   }
 ]

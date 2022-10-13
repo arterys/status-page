@@ -1,5 +1,19 @@
 [
   {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
+    "created_at": "2022-10-13T23:10:56Z",
+    "estimated_duration": "30 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/93",
+    "number": 93,
+    "starting_datetime": "2022-10-14 01:00 UTC",
+    "state": "open",
+    "title": "29.2.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Enable a single click segmentation to enhance lesion workflows\n\n",
     "comments": 0,
     "created_at": "2022-10-04T21:52:38Z",
@@ -403,20 +417,6 @@
     "title": "27.14.0",
     "user": {
       "login": "bidulock"
-    }
-  },
-  {
-    "body": "Add radial and circumferential cardiac strain\n\n",
-    "comments": 0,
-    "created_at": "2022-05-04T23:03:20Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/62",
-    "number": 62,
-    "starting_datetime": "2022-05-05 02:00 UTC",
-    "state": "open",
-    "title": "27.14.0 Minor Release",
-    "user": {
-      "login": "justinfranco"
     }
   }
 ]
