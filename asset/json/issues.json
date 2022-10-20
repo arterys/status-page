@@ -2,6 +2,20 @@
   {
     "body": "Bug Fixes\n\n",
     "comments": 0,
+    "created_at": "2022-10-20T00:07:30Z",
+    "estimated_duration": "30 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/95",
+    "number": 95,
+    "starting_datetime": "2022-10-20 02:00 UTC",
+    "state": "open",
+    "title": "29.2.2 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
     "created_at": "2022-10-13T23:10:56Z",
     "estimated_duration": "30 minutes",
     "html_url": "https://github.com/arterys/status-page/issues/93",
@@ -403,20 +417,6 @@
     "title": "27.14.1 Patch Release",
     "user": {
       "login": "justinfranco"
-    }
-  },
-  {
-    "body": "27.14.0 Release\n\n",
-    "comments": 0,
-    "created_at": "2022-05-04T23:08:33Z",
-    "estimated_duration": "30 min",
-    "html_url": "https://github.com/arterys/status-page/issues/63",
-    "number": 63,
-    "starting_datetime": "2022-05-05 03:25 UTC",
-    "state": "open",
-    "title": "27.14.0",
-    "user": {
-      "login": "bidulock"
     }
   }
 ]
