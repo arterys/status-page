@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/113",
+    "number": 113,
+    "title": "29.6.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2023-02-23T18:54:52Z",
+    "body": "Bug Fixes\n\n",
+    "starting_datetime": "2023-02-17 03:00 UTC",
+    "estimated_duration": "20 minutes"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/112",
     "number": 112,
     "title": "29.6.0 Minor Release",
@@ -404,19 +418,5 @@
     "body": "bug fix\n\n",
     "starting_datetime": "",
     "estimated_duration": "20 minutes"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/81",
-    "number": 81,
-    "title": "28.2.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-07-29T21:37:19Z",
-    "body": "Minor bug fixes\n\n",
-    "starting_datetime": "2022-07-30 02:30 UTC",
-    "estimated_duration": "15 mins"
   }
 ]

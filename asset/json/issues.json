@@ -1,5 +1,19 @@
 [
   {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
+    "created_at": "2023-02-23T18:54:52Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/113",
+    "number": 113,
+    "starting_datetime": "2023-02-17 03:00 UTC",
+    "state": "open",
+    "title": "29.6.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "29.6.0 Lung-RADS 2022\n\n",
     "comments": 0,
     "created_at": "2023-02-16T22:28:38Z",
@@ -403,20 +417,6 @@
     "title": "28.2.2 Patch Release",
     "user": {
       "login": "justinfranco"
-    }
-  },
-  {
-    "body": "Minor bug fixes\n\n",
-    "comments": 0,
-    "created_at": "2022-07-29T21:37:19Z",
-    "estimated_duration": "15 mins",
-    "html_url": "https://github.com/arterys/status-page/issues/81",
-    "number": 81,
-    "starting_datetime": "2022-07-30 02:30 UTC",
-    "state": "open",
-    "title": "28.2.1 Patch Release",
-    "user": {
-      "login": "MaddieLowe"
     }
   }
 ]
