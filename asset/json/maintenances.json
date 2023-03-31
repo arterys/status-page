@@ -1,5 +1,19 @@
 [
   {
+    "html_url": "https://github.com/arterys/status-page/issues/120",
+    "number": 120,
+    "title": "29.8.0 Minor Release",
+    "user": {
+      "login": "bcjroberts"
+    },
+    "state": "open",
+    "comments": 0,
+    "created_at": "2023-03-31T21:07:11Z",
+    "body": "29.8.0 release\n\n",
+    "starting_datetime": "2023-04-01 03:00 UTC",
+    "estimated_duration": "15mins"
+  },
+  {
     "html_url": "https://github.com/arterys/status-page/issues/119",
     "number": 119,
     "title": "parts[0].parts[1].parts[2] Major Release",
@@ -401,20 +415,6 @@
     "state": "open",
     "comments": 0,
     "created_at": "2022-09-15T21:25:20Z",
-    "body": "bug fixes\n\n",
-    "starting_datetime": "2022-09-15 02:00 UTC",
-    "estimated_duration": "20 minutes"
-  },
-  {
-    "html_url": "https://github.com/arterys/status-page/issues/88",
-    "number": 88,
-    "title": "29.0.1 Patch Release",
-    "user": {
-      "login": "justinfranco"
-    },
-    "state": "open",
-    "comments": 0,
-    "created_at": "2022-09-14T21:15:25Z",
     "body": "bug fixes\n\n",
     "starting_datetime": "2022-09-15 02:00 UTC",
     "estimated_duration": "20 minutes"
