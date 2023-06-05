@@ -2,6 +2,20 @@
   {
     "body": "Deployment tools update\n\n",
     "comments": 0,
+    "created_at": "2023-06-05T21:28:18Z",
+    "estimated_duration": "25 mins",
+    "html_url": "https://github.com/arterys/status-page/issues/130",
+    "number": 130,
+    "starting_datetime": "2023-06-06 02:00 UTC",
+    "state": "open",
+    "title": "29.11.0 Minor Release",
+    "user": {
+      "login": "MaddieLowe"
+    }
+  },
+  {
+    "body": "Deployment tools update\n\n",
+    "comments": 0,
     "created_at": "2023-06-05T21:24:44Z",
     "estimated_duration": "25 mins",
     "html_url": "https://github.com/arterys/status-page/issues/129",
@@ -401,20 +415,6 @@
     "starting_datetime": "2022-11-15 03:00 UTC",
     "state": "open",
     "title": "29.2.6 Patch Release",
-    "user": {
-      "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "Bug Fixes\n\n",
-    "comments": 0,
-    "created_at": "2022-11-07T19:44:14Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/99",
-    "number": 99,
-    "starting_datetime": "2022-11-09 02:00 UTC",
-    "state": "open",
-    "title": "29.2.5 Patch Release",
     "user": {
       "login": "bcjroberts"
     }
