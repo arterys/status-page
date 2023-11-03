@@ -2,6 +2,20 @@
   {
     "body": "Bug Fixes\n\n",
     "comments": 0,
+    "created_at": "2023-11-03T19:13:49Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/148",
+    "number": 148,
+    "starting_datetime": "2023-11-04 01:00 UTC",
+    "state": "open",
+    "title": "31.0.2 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
     "created_at": "2023-10-27T20:16:58Z",
     "estimated_duration": "20 minutes",
     "html_url": "https://github.com/arterys/status-page/issues/147",
@@ -398,20 +412,6 @@
     "estimated_duration": "15mins",
     "html_url": "https://github.com/arterys/status-page/issues/119",
     "number": 119,
-    "starting_datetime": "2023-04-01 03:00 UTC",
-    "state": "open",
-    "title": "parts[0].parts[1].parts[2] Major Release",
-    "user": {
-      "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "29.8.0 release\n\n",
-    "comments": 0,
-    "created_at": "2023-03-31T21:03:18Z",
-    "estimated_duration": "15mins",
-    "html_url": "https://github.com/arterys/status-page/issues/118",
-    "number": 118,
     "starting_datetime": "2023-04-01 03:00 UTC",
     "state": "open",
     "title": "parts[0].parts[1].parts[2] Major Release",
