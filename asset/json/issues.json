@@ -1,5 +1,19 @@
 [
   {
+    "body": "Tempus Rebranding",
+    "comments": 0,
+    "created_at": "2023-12-05T23:24:51Z",
+    "estimated_duration": "30 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/152",
+    "number": 152,
+    "starting_datetime": "2023-12-06 02:00 UTC",
+    "state": "open",
+    "title": "31.3.0 Minor Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Broader Therapixel release",
     "comments": 0,
     "created_at": "2023-12-01T21:26:07Z",
@@ -401,20 +415,6 @@
     "starting_datetime": "2023-04-27 02:00 UTC",
     "state": "open",
     "title": "29.8.3 Patch Release",
-    "user": {
-      "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "29.8.2 release\n\n",
-    "comments": 0,
-    "created_at": "2023-04-14T20:24:51Z",
-    "estimated_duration": "20mins",
-    "html_url": "https://github.com/arterys/status-page/issues/122",
-    "number": 122,
-    "starting_datetime": "2023-04-15 02:00 UTC",
-    "state": "open",
-    "title": "29.8.2 Patch Release",
     "user": {
       "login": "bcjroberts"
     }
