@@ -1,5 +1,19 @@
 [
   {
+    "body": "Bug Fixes",
+    "comments": 0,
+    "created_at": "2023-12-20T21:10:23Z",
+    "estimated_duration": "30 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/153",
+    "number": 153,
+    "starting_datetime": "2023-12-21 04:00 UTC",
+    "state": "open",
+    "title": "31.3.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Tempus Rebranding",
     "comments": 0,
     "created_at": "2023-12-05T23:24:51Z",
@@ -401,20 +415,6 @@
     "starting_datetime": "2023-05-11 04:00 UTC",
     "state": "open",
     "title": "29.9.0 Minor Release",
-    "user": {
-      "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "29.8.3 release\n\n",
-    "comments": 0,
-    "created_at": "2023-04-26T20:40:43Z",
-    "estimated_duration": "20mins",
-    "html_url": "https://github.com/arterys/status-page/issues/123",
-    "number": 123,
-    "starting_datetime": "2023-04-27 02:00 UTC",
-    "state": "open",
-    "title": "29.8.3 Patch Release",
     "user": {
       "login": "bcjroberts"
     }
