@@ -1,19 +1,5 @@
 [
   {
-    "body": "Bug Fixes\n\n",
-    "comments": 0,
-    "created_at": "2024-03-05T18:36:49Z",
-    "estimated_duration": "20 minutes",
-    "html_url": "https://github.com/arterys/status-page/issues/155",
-    "number": 155,
-    "starting_datetime": "2024-03-06 03:00 UTC",
-    "state": "open",
-    "title": "31.4.1 Patch Release",
-    "user": {
-      "login": "bcjroberts"
-    }
-  },
-  {
     "body": "Security updates\n\n",
     "comments": 0,
     "created_at": "2024-02-07T22:23:29Z",
@@ -417,6 +403,20 @@
     "title": "29.10.0",
     "user": {
       "login": "bidulock"
+    }
+  },
+  {
+    "body": "Bug Fixes\n\n",
+    "comments": 0,
+    "created_at": "2023-05-17T20:46:34Z",
+    "estimated_duration": "20mins",
+    "html_url": "https://github.com/arterys/status-page/issues/125",
+    "number": 125,
+    "starting_datetime": "2023-05-18 02:00 UTC",
+    "state": "open",
+    "title": "29.9.1 Patch Release",
+    "user": {
+      "login": "bcjroberts"
     }
   }
 ]
