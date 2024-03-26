@@ -1,5 +1,19 @@
 [
   {
+    "body": "Minor Release",
+    "comments": 0,
+    "created_at": "2024-03-26T17:33:12Z",
+    "estimated_duration": "20 minutes",
+    "html_url": "https://github.com/arterys/status-page/issues/157",
+    "number": 157,
+    "starting_datetime": "2024-03-27 03:00 UTC",
+    "state": "open",
+    "title": "31.5.0 Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Bug Fixes",
     "comments": 0,
     "created_at": "2024-03-07T23:46:36Z",
@@ -403,20 +417,6 @@
     "title": "29.10.0",
     "user": {
       "login": "bcjroberts"
-    }
-  },
-  {
-    "body": "29.10.0 Release\n\n",
-    "comments": 0,
-    "created_at": "2023-05-19T20:50:33Z",
-    "estimated_duration": "30 min",
-    "html_url": "https://github.com/arterys/status-page/issues/126",
-    "number": 126,
-    "starting_datetime": "2023-05-20 02:00 UTC",
-    "state": "open",
-    "title": "29.10.0",
-    "user": {
-      "login": "bidulock"
     }
   }
 ]
