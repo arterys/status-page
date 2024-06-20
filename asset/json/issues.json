@@ -1,5 +1,19 @@
 [
   {
+    "body": "Minor Release",
+    "comments": 0,
+    "created_at": "2024-06-20T17:12:24Z",
+    "estimated_duration": "12 hours",
+    "html_url": "https://github.com/arterys/status-page/issues/159",
+    "number": 159,
+    "starting_datetime": "2024-06-22 13:00 UTC",
+    "state": "open",
+    "title": "32.2.0 Release",
+    "user": {
+      "login": "bcjroberts"
+    }
+  },
+  {
     "body": "Major Release",
     "comments": 0,
     "created_at": "2024-04-25T21:44:58Z",
@@ -403,20 +417,6 @@
     "title": " Release",
     "user": {
       "login": "MaddieLowe"
-    }
-  },
-  {
-    "body": "Bug Fixes\n\n",
-    "comments": 0,
-    "created_at": "2023-05-26T17:28:29Z",
-    "estimated_duration": "20mins",
-    "html_url": "https://github.com/arterys/status-page/issues/128",
-    "number": 128,
-    "starting_datetime": "2023-05-27 02:00 UTC",
-    "state": "open",
-    "title": "29.10.1 Patch Release",
-    "user": {
-      "login": "bcjroberts"
     }
   }
 ]
