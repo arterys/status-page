@@ -1,0 +1,19 @@
+name: CI
+on:
+  push:
+    branches-ignore:
+      - master
+  pull_request:
+    branches-ignore:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build
+        env:
+          BRANCH-TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Hello World"
+
+
