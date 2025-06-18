@@ -18,8 +18,5 @@ jobs:
         run: |
           bash ./build.sh
       - name: Commit json files
-        env:
-          BRANCH-TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ORG-GH: ${{ var.GITHUB_WORKSPACE }}
         run: |
-          echo "Hello from $$ORG-GH $ORG-GH"
+          echo "Hello from $GITHUB_REPOSITORY $GITHUB_USER"
