@@ -1,12 +1,11 @@
 name: CI
 on:
-#   schedule:
-#     - cron: '0/5 * * * *'
-  issues:
-    types: [ opened, edited, deleted, closed, labeled, unlabeled ]
-  issue_comment:
-    types: [ created, edited, deleted ]
-  workflow_dispatch:
+  push:
+    branches-ignore:
+      - master
+  pull_request:
+    branches-ignore:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,14 +18,8 @@ jobs:
         run: |
           bash ./build.sh
       - name: Commit json files
+        env:
+          BRANCH-TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORG-GH: ${{ var.GITHUB_WORKSPACE }}
         run: |
-          git add --force ./asset/json
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git diff-index --quiet HEAD || git commit -m "Auto updating json files"
-      - name: Push json files
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ steps.extract_branch.outputs.branch }}
-          force: true
+          echo "Hello from $$ORG-GH $ORG-GH"
